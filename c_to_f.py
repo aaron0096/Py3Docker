@@ -1,5 +1,5 @@
 from flask import Flask, request
-import logging
+# import logging
 
 app = Flask(__name__)
 
@@ -30,11 +30,11 @@ def index():
         + "Fahrenheit: "
         + fahrenheit
     )
-##app.logger.debug("debug log info")
-##app.logger.info("Info log information")
-##app.logger.warning("Warning log info")
-##app.logger.error("Error log info")
-##app.logger.critical("Critical log info")
+# app.logger.debug("debug log info")
+# app.logger.info("Info log information")
+# app.logger.warning("Warning log info")
+# app.logger.error("Error log info")
+# app.logger.critical("Critical log info")
 
 
 if __name__ == "__main__":
