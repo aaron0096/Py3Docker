@@ -27,10 +27,10 @@ Start the Flask server:
    WARNING: This is a development server. Do not use it in a production deployment.
    Use a production WSGI server instead.
  * Debug mode: on
- * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 339-986-221
 ```
 
-Navigate your web browser to this address: <http://127.0.0.1:8080/>
+Navigate your web browser to this address: <http://0.0.0.0:8000/>
