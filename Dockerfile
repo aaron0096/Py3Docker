@@ -10,7 +10,9 @@ RUN pip3 install -r requirements.txt
 
 COPY . /app
 
-CMD [ "python3", "c_to_f.py"]
+ENTRYPOINT [ "python" ]
+
+CMD [ "c_to_f.py" ]
 
 
 
