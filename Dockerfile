@@ -12,7 +12,7 @@ COPY . /app
 
 EXPOSE 9000
 
-CMD [ "python3", "newapp.py"]
+CMD [ "c_to_f.py"]
 
 
 
