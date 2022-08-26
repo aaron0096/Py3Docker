@@ -10,8 +10,6 @@ RUN pip3 install -r requirements.txt
 
 COPY . /app
 
-EXPOSE 9000
-
 CMD [ "c_to_f.py"]
 
 
