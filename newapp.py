@@ -3,8 +3,8 @@ import logging
 
 app = Flask(__name__)
 
-logging.basicConfig(filename="record_newapp.log", level=logging.DEBUG, \
-                    format=f"%(asctime)s, %(levelname)s, %(name)s, %(message)s")
+logging.basicConfig(filename="record_newapp.log", level=logging.DEBUG, style='{' \
+                    format="{asctime}, {levelname}, {name}, {message}".format())
 
 @app.route('/')
 def hello_world():
