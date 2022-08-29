@@ -3,7 +3,7 @@ import logging
 
 app = Flask(__name__)
 
-logging.basicConfig(filename="record_newapp.log", level=logging.DEBUG, style='{' \
+logging.basicConfig(filename="record_newapp.log", level=logging.DEBUG, style='{', \
                     format="{asctime}, {levelname}, {name}, {message}".format())
 
 @app.route('/')
