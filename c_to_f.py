@@ -3,7 +3,8 @@ import logging
 
 app = Flask(__name__)
 
-logging.basicConfig(filename="record.log", level=logging.DEBUG)
+logging.basicConfig(filename="record.log", level=logging.DEBUG, style='{', \
+                    format="{asctime} , {levelname} , {name} , {message}")
 
 def fahrenheit_from(celsius):
     """Convert Celsius to Fahrenheit degrees."""
