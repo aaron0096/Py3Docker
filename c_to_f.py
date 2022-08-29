@@ -17,6 +17,11 @@ def fahrenheit_from(celsius):
 
 @app.route("/")
 def index():
+    app.logger.debug("debug log info")
+    app.logger.info("Info log information")
+    app.logger.warning("Warning log info")
+    app.logger.error("Error log info")
+    app.logger.critical("Critical log info")
     celsius = request.args.get("celsius", "")
     if celsius:
         fahrenheit = fahrenheit_from(celsius)
@@ -30,11 +35,7 @@ def index():
         + "Fahrenheit: "
         + fahrenheit
     )
-    app.logger.debug("debug log info")
-    app.logger.info("Info log information")
-    app.logger.warning("Warning log info")
-    app.logger.error("Error log info")
-    app.logger.critical("Critical log info")
+
 
 
 if __name__ == "__main__":
