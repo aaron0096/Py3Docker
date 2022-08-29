@@ -1,9 +1,10 @@
 from flask import Flask
 import logging
 
-logging.basicConfig(filename="record_newapp.log", level=logging.DEBUG, \
-                    format="{}, {}, {}, {}".format( levelname, name, message,asctime))
 app = Flask(__name__)
+
+logging.basicConfig(filename="record_newapp.log", level=logging.DEBUG, \
+                    format="{}, {}, {}, {}".format())
 
 @app.route('/')
 def hello_world():
