@@ -2,7 +2,7 @@ from flask import Flask
 import logging
 
 logging.basicConfig(filename="record_newapp.log", level=logging.DEBUG, \
-                    format="{}, {}, {}, {}".format(asctime,levelname,name,message))
+                    format="{}, {}, {}, {}".format( levelname, name, message,asctime))
 app = Flask(__name__)
 
 @app.route('/')
