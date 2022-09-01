@@ -1,0 +1,194 @@
+2022-08-29 05:30:38,980 , INFO:20 , werkzeug , [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2022-08-29 05:30:38,980 , INFO:20 , werkzeug , [33mPress CTRL+C to quit[0m
+2022-08-29 05:30:38,981 , INFO:20 , werkzeug ,  * Restarting with stat
+2022-08-29 05:30:39,163 , WARNING:30 , werkzeug ,  * Debugger is active!
+2022-08-29 05:30:39,163 , INFO:20 , werkzeug ,  * Debugger PIN: 575-285-776
+2022-08-29 05:35:41,381 , DEBUG:10 , c_to_f , debug log info
+2022-08-29 05:35:41,381 , INFO:20 , c_to_f , Info log information
+2022-08-29 05:35:41,381 , INFO:20 , werkzeug , 115.66.127.165 - - [29/Aug/2022 05:35:41] "GET / HTTP/1.1" 200 -
+2022-08-29 05:36:32,990 , DEBUG:10 , c_to_f , debug log info
+2022-08-29 05:36:32,990 , INFO:20 , c_to_f , Info log information
+2022-08-29 05:36:32,990 , INFO:20 , werkzeug , 138.75.91.176 - - [29/Aug/2022 05:36:32] "GET / HTTP/1.1" 200 -
+2022-08-29 06:52:35,892 , DEBUG:10 , c_to_f , debug log info
+2022-08-29 06:52:35,892 , INFO:20 , c_to_f , Info log information
+2022-08-29 06:52:35,893 , INFO:20 , werkzeug , 218.212.238.113 - - [29/Aug/2022 06:52:35] "GET /?celsius=0 HTTP/1.1" 200 -
+2022-08-29 07:11:33,713 , DEBUG:10 , c_to_f , debug log info
+2022-08-29 07:11:33,713 , INFO:20 , c_to_f , Info log information
+2022-08-29 07:11:33,713 , INFO:20 , werkzeug , 198.235.24.3 - - [29/Aug/2022 07:11:33] "GET / HTTP/1.0" 200 -
+2022-09-01 06:06:49,631 , INFO:20 , werkzeug , [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2022-09-01 06:06:49,632 , INFO:20 , werkzeug , [33mPress CTRL+C to quit[0m
+2022-09-01 06:06:49,633 , INFO:20 , werkzeug ,  * Restarting with stat
+2022-09-01 06:06:49,816 , WARNING:30 , werkzeug ,  * Debugger is active!
+2022-09-01 06:06:49,904 , INFO:20 , werkzeug ,  * Debugger PIN: 204-423-462
+2022-09-01 06:06:56,949 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 06:06:56,949 , INFO:20 , c_to_f , Info log information
+2022-09-01 06:06:56,950 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 06:06:56] "GET / HTTP/1.1" 200 -
+2022-09-01 06:06:57,186 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 06:06:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-09-01 06:06:59,023 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 06:06:59,023 , INFO:20 , c_to_f , Info log information
+2022-09-01 06:06:59,023 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 06:06:59] "GET /?celsius=0 HTTP/1.1" 200 -
+2022-09-01 06:06:59,241 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 06:06:59,242 , INFO:20 , c_to_f , Info log information
+2022-09-01 06:06:59,242 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 06:06:59] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 06:06:59,373 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 06:06:59,373 , INFO:20 , c_to_f , Info log information
+2022-09-01 06:06:59,373 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 06:06:59] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 06:06:59,508 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 06:06:59,509 , INFO:20 , c_to_f , Info log information
+2022-09-01 06:06:59,509 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 06:06:59] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 06:06:59,633 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 06:06:59,633 , INFO:20 , c_to_f , Info log information
+2022-09-01 06:06:59,633 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 06:06:59] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 06:06:59,753 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 06:06:59,754 , INFO:20 , c_to_f , Info log information
+2022-09-01 06:06:59,754 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 06:06:59] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 06:07:29,749 , INFO:20 , werkzeug , [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2022-09-01 06:07:29,749 , INFO:20 , werkzeug , [33mPress CTRL+C to quit[0m
+2022-09-01 06:07:29,750 , INFO:20 , werkzeug ,  * Restarting with stat
+2022-09-01 06:07:29,930 , WARNING:30 , werkzeug ,  * Debugger is active!
+2022-09-01 06:07:29,930 , INFO:20 , werkzeug ,  * Debugger PIN: 204-423-462
+2022-09-01 06:20:39,908 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 06:20:39,908 , INFO:20 , c_to_f , Info log information
+2022-09-01 06:20:39,908 , INFO:20 , werkzeug , 205.210.31.143 - - [01/Sep/2022 06:20:39] "GET / HTTP/1.1" 200 -
+2022-09-01 07:29:40,181 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 07:29:40,182 , INFO:20 , c_to_f , Info log information
+2022-09-01 07:29:40,182 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 07:29:40] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 08:06:11,735 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:06:11,735 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:06:11,735 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:06:11] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 08:06:11,994 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:06:11,994 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:06:11,994 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:06:11] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 08:06:12,261 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:06:12,261 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:06:12,261 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:06:12] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 08:06:12,558 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:06:12,558 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:06:12,558 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:06:12] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 08:06:14,077 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:06:14,077 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:06:14,077 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:06:14] "GET /?celsius=20 HTTP/1.1" 200 -
+2022-09-01 08:06:14,702 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:06:14,702 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:06:14,703 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:06:14] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 08:37:30,448 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:37:30,451 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:37:30,451 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:37:30] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 08:42:49,682 , INFO:20 , werkzeug , [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.27.208:5000
+2022-09-01 08:42:49,682 , INFO:20 , werkzeug , [33mPress CTRL+C to quit[0m
+2022-09-01 08:42:49,684 , INFO:20 , werkzeug ,  * Restarting with stat
+2022-09-01 08:42:49,879 , WARNING:30 , werkzeug ,  * Debugger is active!
+2022-09-01 08:42:49,881 , INFO:20 , werkzeug ,  * Debugger PIN: 960-461-402
+2022-09-01 08:43:01,735 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:43:01,735 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:43:01,736 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:43:01] "GET /?celsius=test HTTP/1.1" 200 -
+2022-09-01 08:43:03,284 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:43:03,284 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:43:03,285 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:43:03] "GET /?celsius=0 HTTP/1.1" 200 -
+2022-09-01 08:43:03,943 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:43:03,943 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:43:03,944 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:43:03] "GET /?celsius=1 HTTP/1.1" 200 -
+2022-09-01 08:43:04,514 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:43:04,514 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:43:04,515 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:43:04] "GET /?celsius=2 HTTP/1.1" 200 -
+2022-09-01 08:43:05,095 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:43:05,095 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:43:05,096 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:43:05] "GET /?celsius=3 HTTP/1.1" 200 -
+2022-09-01 08:43:06,504 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:43:06,504 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:43:06,505 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:43:06] "GET /?celsius=aaron HTTP/1.1" 200 -
+2022-09-01 08:50:43,674 , INFO:20 , werkzeug , [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.27.208:5000
+2022-09-01 08:50:43,675 , INFO:20 , werkzeug , [33mPress CTRL+C to quit[0m
+2022-09-01 08:50:43,675 , INFO:20 , werkzeug ,  * Restarting with stat
+2022-09-01 08:50:43,870 , WARNING:30 , werkzeug ,  * Debugger is active!
+2022-09-01 08:50:43,872 , INFO:20 , werkzeug ,  * Debugger PIN: 960-461-402
+2022-09-01 08:50:47,737 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:50:47,737 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:50:47,738 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:50:47] "GET /?celsius=herro HTTP/1.1" 200 -
+2022-09-01 08:50:50,106 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:50:50,106 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:50:50,107 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:50:50] "GET /?celsius=testing HTTP/1.1" 200 -
+2022-09-01 08:50:53,851 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:50:53,852 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:50:53,852 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:50:53] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:45,719 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:45,719 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:45,719 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:45] "GET /?celsius= HTTP/1.1" 200 -
+2022-09-01 08:53:48,013 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:48,013 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:48,014 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:48] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:48,149 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:48,149 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:48,149 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:48] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:48,271 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:48,272 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:48,272 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:48] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:48,385 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:48,386 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:48,386 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:48] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:48,548 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:48,548 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:48,549 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:48] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:48,717 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:48,717 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:48,718 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:48] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:48,952 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:48,952 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:48,953 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:48] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:49,189 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:49,190 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:49,190 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:49] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:50,685 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:50,686 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:50,686 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:50] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:50,839 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:50,839 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:50,840 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:50] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:50,966 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:50,967 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:50,967 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:50] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:51,101 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:51,101 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:51,102 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:51] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:51,240 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:51,240 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:51,241 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:51] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:51,393 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:51,393 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:51,394 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:51] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:51,531 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:51,531 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:51,532 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:51] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:51,649 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:51,649 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:51,649 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:51] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:51,795 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:51,795 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:51,795 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:51] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:51,911 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:51,911 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:51,912 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:51] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:52,060 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:52,060 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:52,061 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:52] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:52,201 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:52,202 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:52,202 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:52] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:52,335 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:52,335 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:52,336 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:52] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:52,486 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:52,486 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:52,487 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:52] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:52,619 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:52,620 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:52,620 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:52] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
+2022-09-01 08:53:52,734 , DEBUG:10 , c_to_f , debug log info
+2022-09-01 08:53:52,734 , INFO:20 , c_to_f , Info log information
+2022-09-01 08:53:52,735 , INFO:20 , werkzeug , 218.212.238.113 - - [01/Sep/2022 08:53:52] "GET /?celsius=i+am+fabulous HTTP/1.1" 200 -
